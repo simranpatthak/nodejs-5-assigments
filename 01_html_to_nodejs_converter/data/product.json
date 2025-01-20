@@ -1,0 +1,40 @@
+{
+    "products": [
+      {
+        "name": "Smartphone X",
+        "description": "Latest flagship smartphone with amazing camera and performance",
+        "price": 999.99,
+        "imageUrl": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?w=500&q=80"
+      },
+      {
+        "name": "Laptop Pro",
+        "description": "Powerful laptop for professionals and creators",
+        "price": 1499.99,
+        "imageUrl": "https://images.unsplash.com/photo-1496181133206-80ce9b88a853?w=500&q=80"
+      },
+      {
+        "name": "Smart Watch",
+        "description": "Track your fitness and stay connected with style",
+        "price": 299.99,
+        "imageUrl": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&q=80"
+      },
+      {
+        "name": "Wireless Earbuds",
+        "description": "Premium sound quality with active noise cancellation",
+        "price": 199.99,
+        "imageUrl": "https://images.unsplash.com/photo-1572569511254-d8f925fe2cbb?w=500&q=80"
+      },
+      {
+        "name": "4K Smart TV",
+        "description": "Immersive viewing experience with HDR technology",
+        "price": 799.99,
+        "imageUrl": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?w=500&q=80"
+      },
+      {
+        "name": "Gaming Console",
+        "description": "Next-gen gaming with stunning graphics",
+        "price": 499.99,
+        "imageUrl": "https://images.unsplash.com/photo-1486401899868-0e435ed85128?w=500&q=80"
+      }
+    ]
+  }
